@@ -60,5 +60,5 @@ env/
 
 # .env files
 .env
-*.env
+tproject/.env
 
