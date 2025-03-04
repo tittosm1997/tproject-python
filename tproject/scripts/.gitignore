@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# .env files
+.env
+*.env
+
